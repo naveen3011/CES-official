@@ -33,5 +33,5 @@
 	<td align="center"><a href="https://github.com/svaibhav53425"><img alt="" src="https://avatars.githubusercontent.com/svaibhav53425" width="70px;">
 	<br><sub><b> Vaibhav Sharma </b></sub><br>💻 </a></td></a></td>
 </tr>
-
+</table>
 <h1 align=center> CES Team 2nd year 😃 </h1>
