@@ -898,6 +898,12 @@ color: #fff;
   margin-bottom: 5px;
   padding: 0 20px;
 }
+#hotels h4 {
+  font-weight: 600;
+  font-size: 15px;
+  margin-bottom: 25px;
+  padding: 0 20px;
+}
 #hotels a {
   color: #152b79;
 }
@@ -913,7 +919,7 @@ color: #fff;
 }
 #hotels p {
   padding: 0 20px;
-  margin-bottom: 20px;
+  margin-bottom: 5px;
   color: #060c22;
   font-style: italic;
   font-size: 15px;
@@ -1168,8 +1174,29 @@ color: #fff;
 /*--------------------------------------------------------------
 # Contact Section
 --------------------------------------------------------------*/
-#contact {
+/* #contact {
   padding: 60px 0;
+} */
+#contact {
+  padding: 60px;
+  background: url(../img/subscribe-bg.jpg) center center no-repeat;
+  background-size: cover;
+  overflow: hidden;
+  position: relative;
+}
+#contact:before {
+  content: "";
+  background: rgba(6, 12, 34, 0.8);
+  position: absolute;
+  bottom: 0;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+@media (min-width: 1024px) {
+  #contact {
+    background-attachment: fixed;
+  }
 }
 #contact .contact-info {
   margin-bottom: 20px;
@@ -1179,21 +1206,31 @@ color: #fff;
   font-size: 48px;
   display: inline-block;
   margin-bottom: 10px;
+  font-weight: bold;
   color: #f82249;
+}
+#contact .section-header p{
+  color:#ccd1e0;
 }
 #contact .contact-info address, #contact .contact-info p {
   margin-bottom: 0;
-  color: #112363;
+  color: #ccd1e0;
+}
+#contact h2{
+  color:#fff;
 }
 #contact .contact-info h3 {
   font-size: 18px;
   margin-bottom: 15px;
   font-weight: bold;
   text-transform: uppercase;
-  color: #112363;
+  color: #fff;
+}
+#contact .contact-info address {
+  color: #ccd1e0;
 }
 #contact .contact-info a {
-  color: #4869df;
+  color: #ccd1e0;
 }
 #contact .contact-info a:hover {
   color: #f82249;
@@ -1441,5 +1478,3 @@ color: #fff;
   font-size: 13px;
   color: #ddd;
 }
-
-
