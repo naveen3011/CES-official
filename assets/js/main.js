@@ -209,6 +209,7 @@
     selector: '.gallery-lightbox'
   });
 
+
   /**
    * Buy tickets select the ticket type on click
    */
