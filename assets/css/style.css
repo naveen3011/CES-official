@@ -859,14 +859,21 @@ color: #fff;
 }
 #venue .venue-gallery-container {
   padding-right: 12px;
+  
+}
+#venue .venue-gallery-s {
+  width: 25rem;
+  height: 20rem;
 }
 #venue .venue-gallery {
   overflow: hidden;
   border-right: 3px solid #fff;
   border-bottom: 3px solid #fff;
+  margin: 5% 7%;
 }
 #venue .venue-gallery img {
   transition: all ease-in-out 0.4s;
+  
 }
 #venue .venue-gallery:hover img {
   transform: scale(1.1);
@@ -943,12 +950,20 @@ color: #fff;
   background-color: #fff;
   opacity: 1;
   border: 1px solid #f82249;
+  /* border-radius: 50%; */
 }
 #gallery .swiper-pagination .swiper-pagination-bullet-active {
   background-color: #f82249;
+  border-radius: 50%;
 }
 #gallery .swiper-slide-active {
   text-align: center;
+  border-radius: 50%;
+}
+#gallery .img-fluid-s {
+  width: 20rem;
+  height: 20rem;
+  border-radius: 50%;
 }
 @media (min-width: 992px) {
   #gallery .swiper-wrapper {
