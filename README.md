@@ -80,7 +80,5 @@
 	<br><sub><b> Akriti Srivastava </b></sub><br>💻 </a></td></a></td>
 	<td align="center"><a href="https://github.com/arya-911"><img alt="" src="https://avatars.githubusercontent.com/arya-911" width="70px;">
 	<br><sub><b> Sai Arya </b></sub><br>💻 </a></td></a></td>
-	<td align="center"><a href="https://github.com/shivjais1807"><img alt="" src="https://avatars.githubusercontent.com/shivjais1807" width="70px;">
-	<br><sub><b> Shivansh Jaiswal </b></sub><br>💻 </a></td></a></td>
 </tr>
 </table>
