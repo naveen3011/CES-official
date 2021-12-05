@@ -863,7 +863,7 @@ color: #fff;
 }
 #venue .venue-gallery-s {
   width: 25rem;
-  height: 12rem;
+  height: 15rem;
 }
 #venue .venue-gallery {
   overflow: hidden;
@@ -961,8 +961,8 @@ color: #fff;
   border-radius: 50%;
 }
 #gallery .img-fluid-s {
-  width: 20rem;
-  height: 20rem;
+  width: 17.5rem;
+  height: 17.5rem;
   border-radius: 50%;
 }
 @media (min-width: 992px) {
