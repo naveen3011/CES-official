@@ -869,7 +869,7 @@ color: #fff;
   overflow: hidden;
   border-right: 3px solid #fff;
   border-bottom: 3px solid #fff;
-  margin: 5% 7%;
+  margin: 5% 2% 0 2%;
 }
 #venue .venue-gallery img {
   transition: all ease-in-out 0.4s;
