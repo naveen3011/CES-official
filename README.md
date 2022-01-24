@@ -73,7 +73,6 @@
 	<td align="center"><a href="https://github.com/refertoyash"><img alt="" src="https://avatars.githubusercontent.com/refertoyash" width="70px;">
 	<br><sub><b> Yash Tiwari </b></sub><br>💻 </a></td></a></td>
 	 <td align="center"><a href="https://github.com/sakshisingh00"><img alt="" src="https://avatars.githubusercontent.com/sakshisingh00" width="70px;">
-	<br><sub><b> Sakshi Singh </b></sub><br>💻 </a></td></a></td>
 	 <td align="center"><a href="https://github.com/ayushim13"><img alt="" src="https://avatars.githubusercontent.com/ayushim13" width="70px;">
 	<br><sub><b> Ayushi Mishra </b></sub><br>💻 </a></td></a></td>
 	 <td align="center"><a href="https://github.com/akritisrivastava2"><img alt="" src="https://avatars.githubusercontent.com/akritisrivastava2" width="70px;">
