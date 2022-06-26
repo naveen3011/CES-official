@@ -40,8 +40,8 @@
 
 <table>
   <tbody><tr>
-    <td align="center"><a href="https://github.com/astha2412"><img alt="" src="https://avatars.githubusercontent.com/astha2412" width="70px;">
-	<br><sub><b> Kumari Astha Rani</b></sub><br>💻 </a></td></a></td>
+    <td align="center"><a href="https://github.com/naveen3011"><img alt="" src="https://avatars.githubusercontent.com/naveen3011" width="70px;">
+	<br><sub><b> Naveen Kushwaha </b></sub><br>💻 </a></td></a></td>
     <td align="center"><a href="https://github.com/sophiya02"><img alt="" src="https://avatars.githubusercontent.com/sophiya02" width="70px;">
 	<br><sub><b> Sophiya Singh </b></sub><br>💻 </a></td></a></td>
       <td align="center"><a href="https://github.com/sejalgangwar"><img alt="" src="https://avatars.githubusercontent.com/sejalgangwar" width="70px;">
@@ -50,8 +50,8 @@
 	<br><sub><b> Vaishnavi Porwal </b></sub><br>💻 </a></td></a></td>
 	 <td align="center"><a href="https://github.com/SHUKLA-KUSHAGRA"><img alt="" src="https://avatars.githubusercontent.com/SHUKLA-KUSHAGRA" width="70px;">
 	<br><sub><b> Kushagra Shukla </b></sub><br>💻 </a></td></a></td>
-	<td align="center"><a href="https://github.com/naveen3011"><img alt="" src="https://avatars.githubusercontent.com/naveen3011" width="70px;">
-	<br><sub><b> Naveen Kushwaha </b></sub><br>💻 </a></td></a></td>
+	<td align="center"><a href="https://github.com/astha2412"><img alt="" src="https://avatars.githubusercontent.com/astha2412" width="70px;">
+	<br><sub><b> Kumari Astha Rani</b></sub><br>💻 </a></td></a></td>
   </tr>
  
   <tr>
